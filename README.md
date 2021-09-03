@@ -39,4 +39,5 @@ I rigorously tested the resulting set of strategies for overfitting on hyperpara
 - Plotting and visual analysis of fitness functions’ (metrics) surfaces in high-dimensional space around local extremas.
 - Time-series walk-forward cross-validation.
 - Ranking strategies by their performance on different subperiods of the timeline and examining their deviations.
+
 Results indicate that the most important fitness function is continuous and smooth in the domain for most types of strategies which allow to use them with confidence in real life investing.
