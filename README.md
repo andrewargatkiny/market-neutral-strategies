@@ -1,9 +1,9 @@
 # Market-neutral strategies
 ![4D Plot of Calmar ratio](./images/PlotCalmar4d.png)
 
-This is the code used for research on my thesis, “Development of market-neutral strategies targeting global markets” (to be published online this fall). Keep in mind, it was designed for exploration and analysis, not for production, so it may look a little twisted and not follow best practices.
+This is the code used for research on my thesis, “Development of market-neutral strategies targeting global markets” (to be published online this fall). If the file doesn't open, use this link: https://nbviewer.jupyter.org/github/andrewargatkiny/market-neutral-strategies/blob/main/strategy%20implementation.ipynb. 
 
-Stock data is NOT included as its redistribution isn't permitted by providers.
+Keep in mind, it was designed for exploration and analysis, not for production, so it may look a little twisted and not follow best practices. Stock data is NOT included as its redistribution isn't permitted by providers.
 
 I also included conclusion of the thesis in Russian in the repo. Main highlights and implications of the work are:
 
