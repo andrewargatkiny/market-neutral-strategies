@@ -7,6 +7,8 @@ Keep in mind, it was designed for exploration and analysis, not for production, 
 
 I also included conclusion of the thesis in Russian in the repo. Main highlights and implications of the work are:
 
+UPDATE: Now you can read  the full work at http://elib.sfu-kras.ru/handle/2311/143428. Nonetheless, I suggest you'd first read the conclusion.
+
 # Theoretical  
 
 ## Contributions to discussion of market inefficiencies
